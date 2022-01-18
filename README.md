@@ -13,5 +13,5 @@ In this project, let's build an **Emoji Game Magento React Extension** by applyi
 ### Set Up Instructions
 
 ```
-composer install genaker/module-react-emojigame
+composer require genaker/module-react-emojigame
 ```
