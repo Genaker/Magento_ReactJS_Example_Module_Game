@@ -15,3 +15,11 @@ In this project, let's build an **Emoji Game Magento React Extension** by applyi
 ```
 composer require genaker/module-react-emojigame
 ```
+
+## This module recuires Magento React_React module as a dependemcy:
+
+https://github.com/Genaker/reactmagento2
+
+React Magento 2 implementation. This Simple module explains how to add and use React/Vue Components with Magento 2.
+
+This module will be installed automaticaly if you are using composer for instalation. 
